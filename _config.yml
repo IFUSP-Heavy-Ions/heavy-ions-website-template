@@ -18,7 +18,7 @@ title:            Documentation
 tagline:          'Research Portal'
 description:      'Documentation Template for Researchers'
 url:              http://ifusp-heavy-ions.github.io
-baseurl:          /
+baseurl:          /red-docs-jekyll/
 
 author:
   name:           'Vanessa Sochat'
