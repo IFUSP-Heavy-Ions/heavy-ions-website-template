@@ -17,8 +17,8 @@ permalink:        pretty
 title:            Documentation
 tagline:          'Research Portal'
 description:      'Documentation Template for Researchers'
-url: "https://ifusp-heavy-ions.github.io"
-baseurl: "/heavy-ions-website-template"
+url:              https://ifusp-heavy-ions.github.io
+baseurl:          /heavy-ions-website-template
 
 author:
   name:           'Vanessa Sochat'
