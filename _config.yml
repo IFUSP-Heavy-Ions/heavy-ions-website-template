@@ -17,8 +17,8 @@ permalink:        pretty
 title:            Documentation
 tagline:          'Research Portal'
 description:      'Documentation Template for Researchers'
-url:              http://researchapps.github.io/red-docs-jekyll
-baseurl:          /red-docs-jekyll/
+url:              http://ifusp-heavy-ions.github.io
+baseurl:          /
 
 author:
   name:           'Vanessa Sochat'
